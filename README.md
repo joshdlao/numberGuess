@@ -2,6 +2,9 @@
 
 A simple Java console-based game where the player tries to guess a randomly selected number between 1 and 100. The player chooses a difficulty level, which determines the number of attempts allowed.
 
+🔗 **Project URL:** [https://roadmap.sh/projects/number-guessing-game](https://roadmap.sh/projects/number-guessing-game)
+
+---
 ## 🧠 How It Works
 
 1. The game generates a random number between **1 and 100**.
