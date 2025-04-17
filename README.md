@@ -17,22 +17,3 @@ A simple Java console-based game where the player tries to guess a randomly sele
 6. If the player uses all attempts without guessing, the game reveals the correct number.
 7. After the game ends, the player can choose to **restart** or **exit**.
 
-## 🛠️ Technologies Used
-
-- Java (JDK 8 or higher)
-- Console-based interaction (no GUI)
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Java installed on your system
-- IDE (like IntelliJ, Eclipse) or a simple text editor and terminal
-
-### Running the Game
-
-1. **Clone or download the project**
-2. Open the project in your Java IDE or terminal.
-3. Compile the program:
-
-   ```bash
-   javac NumberGuess.java
